@@ -1,5 +1,15 @@
 {
-  "version": "1.20.110",
-  "changelog": "Distribuição migrada para repositório público dedicado (o código-fonte ficou privado).",
+  "version": "1.20.111",
+  "changelog": "Build automático: Commit Distribuição: APK publicado em repo público separado (código fica privado)
+
+- Novo repositório público Gestor-de-Producao-Updates recebe apenas
+  version.json + app-debug.apk a cada build
+- CI/CD: publica no repo de distribuição antes de versionar; sem o
+  secret UPDATES_DEPLOY_TOKEN o workflow falha sem alterar versões
+- CI/CD: para de commitar APK no repo de código (menos bloat);
+  app-debug.apk removido do rastreio e adicionado ao .gitignore
+- GitHubUpdater: padrão agora é o repo de distribuição, com migração
+  automática de instalações antigas que apontam para o repo privado
+- README: modelo de dois repositórios documentado",
   "downloadUrl": "https://raw.githubusercontent.com/manassesmartins/Gestor-de-Producao-Updates/main/app-debug.apk"
 }
