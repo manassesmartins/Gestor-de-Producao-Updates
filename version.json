@@ -1,5 +1,5 @@
 {
-  "version": "1.20.112",
-  "changelog": "Build automático: CI: disparar build em mudanças do workflow e permitir execução manual",
+  "version": "2.0.0",
+  "changelog": "v2.0.0: identidade visual profissional, notificações e versionamento semântico",
   "downloadUrl": "https://raw.githubusercontent.com/manassesmartins/Gestor-de-Producao-Updates/main/app-debug.apk"
 }
