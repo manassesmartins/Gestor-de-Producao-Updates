@@ -1,5 +1,5 @@
 {
-  "version": "2.3.0",
-  "changelog": "refactor(ui): visual glass nos cards restantes (Cadastros, Cálculo de Rendimento)",
+  "version": "2.4.0",
+  "changelog": "v2.4.0: menu Fornecedores, campo Fornecedor na Nova Despesa, renomes Despesa, visual glass",
   "downloadUrl": "https://raw.githubusercontent.com/manassesmartins/Gestor-de-Producao-Updates/main/app-debug.apk"
 }
