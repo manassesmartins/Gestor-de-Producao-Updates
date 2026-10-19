@@ -1,5 +1,5 @@
 {
   "version": "2.2.0",
-  "changelog": "refactor: remove barra superior da tela inicial; título permanece só nas demais telas",
+  "changelog": "chore: remove testes de exemplo não utilizados",
   "downloadUrl": "https://raw.githubusercontent.com/manassesmartins/Gestor-de-Producao-Updates/main/app-debug.apk"
 }
