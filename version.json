@@ -1,5 +1,5 @@
 {
   "version": "2.2.0",
-  "changelog": "chore: remove testes de exemplo não utilizados",
+  "changelog": "chore: limpeza de testes exemplo e pequenos ajustes; verificação de dead code",
   "downloadUrl": "https://raw.githubusercontent.com/manassesmartins/Gestor-de-Producao-Updates/main/app-debug.apk"
 }
