@@ -1,5 +1,5 @@
 {
   "version": "2.2.0",
-  "changelog": "refactor(transactions): semanas em grade de ícones (3x2) + manter lista por semana; meses continuam em abas",
+  "changelog": "refactor(orders): semanas em grade de ícones (3x2) + manter cards de pedidos; meses continuam em abas",
   "downloadUrl": "https://raw.githubusercontent.com/manassesmartins/Gestor-de-Producao-Updates/main/app-debug.apk"
 }
