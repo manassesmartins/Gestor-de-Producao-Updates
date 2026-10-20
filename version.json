@@ -1,5 +1,5 @@
 {
-  "version": "2.4.0",
-  "changelog": "fix: migração de fornecedores antigos, semana herdada na Nova Despesa e ocultar clientes da lista",
+  "version": "2.4.1",
+  "changelog": "v2.4.1: migração de fornecedores, semana herdada na Nova Despesa, ocultar clientes",
   "downloadUrl": "https://raw.githubusercontent.com/manassesmartins/Gestor-de-Producao-Updates/main/app-debug.apk"
 }
