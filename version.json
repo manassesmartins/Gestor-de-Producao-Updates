@@ -1,5 +1,5 @@
 {
   "version": "2.4.0",
-  "changelog": "v2.4.0: menu Fornecedores, campo Fornecedor na Nova Despesa, renomes Despesa, visual glass",
+  "changelog": "fix: migração de fornecedores antigos, semana herdada na Nova Despesa e ocultar clientes da lista",
   "downloadUrl": "https://raw.githubusercontent.com/manassesmartins/Gestor-de-Producao-Updates/main/app-debug.apk"
 }
