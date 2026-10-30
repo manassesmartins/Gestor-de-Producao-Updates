@@ -1,5 +1,5 @@
 {
-  "version": "2.4.1",
-  "changelog": "fix: despesa fica no mês e na semana da data escolhida",
+  "version": "2.4.2",
+  "changelog": "v2.4.2: despesa na semana da data (sem pular para o mês seguinte)",
   "downloadUrl": "https://raw.githubusercontent.com/manassesmartins/Gestor-de-Producao-Updates/main/app-debug.apk"
 }
